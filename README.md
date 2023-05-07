@@ -1,4 +1,4 @@
-# Blog with FastAPI
+# Tranquil-Tales-FastAPI
 
 This is a simple blog application built with the FastAPI framework.
 
